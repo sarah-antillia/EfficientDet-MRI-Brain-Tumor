@@ -298,7 +298,8 @@ python ../../ModelTrainer.py ^
   --num_examples_per_epoch=400 ^
   --num_epochs=100
 </pre>
-
+Please note that we use <b>autoaugment_policy=v2</b> in --hparams.<br>
+On detail of autoaugment_policy, see <a href="https://github.com/tensorflow/examples/blob/master/tensorflow_examples/lite/model_maker/third_party/efficientdet/aug/autoaugment.py">autoaugment.py</a><br>
 <table style="border: 1px solid #000;">
 <tr>
 <td>
@@ -318,7 +319,7 @@ python ../../ModelTrainer.py ^
 </tr>
 <tr><td>
 --hparams</td><td>
-"image_size=512x512,num_classes=1,label_map=./label_map.yaml"
+"autoaugment_policy=v2,image_size=512x512,num_classes=1,label_map=./label_map.yaml"
 </td></tr>
 <tr>
 <td>
