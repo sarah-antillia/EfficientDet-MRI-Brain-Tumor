@@ -127,7 +127,7 @@ lgg-mri-segmentation
 2.3.2 Split master dataset
 </h3>
 We have split Brain-Tumor dataset to <b>train</b> and <b>test</b> dataset 
-by using Python <a href="./MRI-Brain-Tumor/split_master.py">split_master.py</a> script.
+by using Python <a href="./projects/MRI-Brain-Tumor/split_master.py">split_master.py</a> script.
 <pre>
 BrainTumor-Segmentation
 ├─test
@@ -141,7 +141,7 @@ BrainTumor-Segmentation
 2.3.3 Split train to train and valid 
 </h3>
 We have split <b>BrainTumor-Segmentation/train</b> dataset to train and valid by using Python
-<a href="./project/MRI-Brain-Tumor/split_train.py">split_train.py</a> scripts.<br>
+<a href="./projects/MRI-Brain-Tumor/split_train.py">split_train.py</a> scripts.<br>
 This script will perform the following image processings.<br>
 1 Resize all tif files in the orignal dataset to 512x512.<br>
 2 Convert the tif files in <b>image</b> folders to jpg files.<br>
