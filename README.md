@@ -141,7 +141,7 @@ BrainTumor-Segmentation
 2.3.3 Split train to train and valid 
 </h3>
 We have split <b>BrainTumor-Segmentation/train</b> dataset to train and valid by using Python
-<a href="./project/MRI-BrainTumor/split_train.py">split_train.py</a> scripts.<br>
+<a href="./project/MRI-Brain-Tumor/split_train.py">split_train.py</a> scripts.<br>
 This script will perform the following image processings.<br>
 1 Resize all tif files in the orignal dataset to 512x512.<br>
 2 Convert the tif files in <b>image</b> folders to jpg files.<br>
