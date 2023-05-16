@@ -561,4 +561,10 @@ Qianni Zhang, Xiangrong Zhang, Yaochu Jin & Huiyu Zhou
 <pre>
 https://link.springer.com/article/10.1007/s40747-022-00815-5
 </pre>
-
+<b>4. MRI-based brain tumor detection using convolutional deep learning methods 
+and chosen machine learning techniques</b><br>
+Soheila Saeedi, Sorayya Rezayi, Hamidreza Keshavarz, and Sharareh R. Niakan Kalhori
+<br>
+<pre>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9872362/
+</pre>
