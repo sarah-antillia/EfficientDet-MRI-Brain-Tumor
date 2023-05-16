@@ -181,7 +181,15 @@ BrainTumor
 <br>
 
 <h3>
-2.3.6. Insepect TFRecord
+2.3.6. Convert YOLO to COCO
+</h3>
+ We have also created <b>COCO</b> annotation test dataset from <b>MRI-Brain-Tumor YOLO</b> test dataset by using 
+ <a href="https://github.com/sarah-antillia/AnnotationConverters/blob/main/YOLO2COCOConverter.py">YOLO2COCOConverter.py </a>.
+<br>
+The generated test dataset will be used to evaluate detection accuracy (mAP) of our MRI-Brain-Tumor EfficientDet Model.
+<br>
+<h3>
+2.3.7. Insepect TFRecord
 </h3>
  Please run the following bat file to inspect TFRrecord/train dataset.<br>
  <pre>
