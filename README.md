@@ -576,3 +576,11 @@ Soheila Saeedi, Sorayya Rezayi, Hamidreza Keshavarz, and Sharareh R. Niakan Kalh
 <pre>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9872362/
 </pre>
+
+<b>5. Efficient framework for brain tumor detection using different deep learning techniques</b><br>
+Fatma Taher, Mohamed R. Shoaib, Heba M. Emara, Khaled M. Abdelwahab, Fathi E. Abd El-Samie, <br>
+and Mohammad T. Haweel
+<br>
+<pre>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9752904/
+</pre>
