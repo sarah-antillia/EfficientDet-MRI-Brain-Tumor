@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+TCGA_FG_6691_20020405_21.jpg,BrainTumor,0.93,136,197,211,315
