@@ -4,7 +4,7 @@ EfficientDet-MRI-Brain-Tumor (Updated: 2023/05/18)
 This is an experimental project to detect <b>Brain-Tumor</b> based on 
 Brain MRI segmentation, by using Google Brain AutoML
 <a href="https://github.com/google/automl/tree/master/efficientdet"> EfficientDet.</a><br>
-The segmentation image dataset used here has been take from the following  web site:<br>
+The segmentation image dataset used here has been taken from the following  web site:<br>
 
 <br>
 <b>Brain MRI segmentation</b><br>
